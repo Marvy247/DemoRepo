@@ -1,2 +1,2 @@
 # demoRepo
-Open contributions for Group 1 Members.
+Open Source contributions for Group 1 Members.
