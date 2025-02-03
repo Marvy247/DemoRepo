@@ -20,31 +20,37 @@ As we start collaborating on our project, here’s a quick guide on how to make 
      git checkout -b your-branch-name
      ```
 
-3. Make Your Edits:
+3. **Pull the Latest Changes**:
+   - Always pull the latest changes from the `main` branch to avoid conflicts:
+     ```
+     git pull origin main
+     ```
+
+4. Make Your Edits:
    - Open the files you want to edit and make your changes. Be sure to save your work.
 
-4. Stage Your Changes:
+5. Stage Your Changes:
    - After making edits, stage the changes for commit:
      ```
      git add .
      ```
 
-5. Commit Your Changes:
+6. Commit Your Changes:
    - Commit your changes with a descriptive message:
      ```
      git commit -m "Description of changes made"
      ```
 
-6. Push Your Branch to the Remote Repository:
+7. Push Your Branch to the Remote Repository:
    - Push your new branch to the remote repository:
      ```
      git push origin your-feature-branch
      ```
 
-7. Create a Pull Request:
+8. Create a Pull Request:
    - Go to the repository on GitHub and you will see an option to create a pull request for your newly pushed branch. Click on it and provide a description of your changes.
 
-8. Wait for Review:
+9. Wait for Review:
    - Once you submit the pull request, I will review your changes and merge them into the main branch if everything looks good.
    - To save time Please drop a message on the Whatsapp group once you've made a pull request.
 
